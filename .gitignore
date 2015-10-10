@@ -1,0 +1,13 @@
+*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+.DS_Store
+.tmp
+.git
+node_modules
+.settings
+*.log
+client/bundle.js
+client/bundle.js.map
