@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #muzhi
 =======
 <p align="center">
@@ -168,4 +167,3 @@ enjoy — **AngularClass**
 > Learn AngularJS, Angular 2, and Modern Web Development form the best.
 > Looking for corporate Angular training, want to host us, or Angular consulting? scott@angularclass.com
 >>>>>>> add code
-# test222222
